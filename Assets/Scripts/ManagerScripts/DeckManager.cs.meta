@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1d70ab9917e59f34796b6c65a8519fa9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BaseA: {fileID: 11400000, guid: 4b2e3dc30af88e74a99f957f86948063, type: 2}
+  - Base2: {fileID: 11400000, guid: e2573017efb7eca448788948474d0ff6, type: 2}
+  - Base3: {fileID: 11400000, guid: e5a540ca8a3fdb24d8dc637ae6a08377, type: 2}
+  - Base4: {fileID: 11400000, guid: 78cda4267dd92e24787911f617172034, type: 2}
+  - Base5: {fileID: 11400000, guid: 08f944bcdb6479741bc620c28a904e05, type: 2}
+  - Base6: {fileID: 11400000, guid: 4fdbf05bb95a4994f8683fe31800d28f, type: 2}
+  - Base7: {fileID: 11400000, guid: 007be2ffc86cc3f4cb85bbd9cd9fe05a, type: 2}
+  - Base8: {fileID: 11400000, guid: 404c18006a0e71848acb7a25cc205015, type: 2}
+  - Base9: {fileID: 11400000, guid: 23d77faab2b3c374e9354071479c6600, type: 2}
+  - Base10: {fileID: 11400000, guid: 9a5d57e9f56f958468928fc75e64eb4b, type: 2}
+  - BaseJ: {fileID: 11400000, guid: 406159b740d1a074ba3497b9f461ebb0, type: 2}
+  - BaseQ: {fileID: 11400000, guid: e653b831c7ab2d74e83bcaa3d2b22e6d, type: 2}
+  - BaseK: {fileID: 11400000, guid: c43e7afe61e608a4eb44219205489123, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
